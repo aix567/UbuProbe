@@ -1,0 +1,6 @@
+Tests: smoke
+Depends: @, python3
+Restrictions: isolation-machine
+
+Test-Command: /bin/true
+Depends: @
