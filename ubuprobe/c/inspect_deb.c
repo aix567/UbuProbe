@@ -1,5 +1,3 @@
-/* Small educational Debian ar-format signature checker.
- * Does not parse or trust archive members, and does not install packages. */
 #include <errno.h>
 #include <stdio.h>
 #include <string.h>
